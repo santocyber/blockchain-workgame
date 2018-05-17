@@ -24,6 +24,13 @@ Depurar transação já confirmada.
 Analise do código de solidity para reduzir erros de codificação e aplicar as melhores práticas.
 Juntamente com Mist (ou qualquer ferramenta que injete web3), o Remix pode ser usado para testar e depurar um Dapp (veja ../tutorial_mist)
 
+# How To: Create Your Own Private Ethereum Blockchain
+Este é um guia para iniciar o seu próprio blockchain Ethereum personalizado no Mac, para não ser confundido com o início de um nó na blockchain principal Ethereum. Aqui estamos começando um blockchain inteiramente novo e separado que não pode interagir com a mainnet Ethereum.
+
+Começar o seu próprio blockchain Ethereum é útil, educativo e seguro do que o testnet público. Aprender a configurar um testnet privado fornece tangibilidade para conceitos abstratos, como mineração, pares de rede e até mesmo o datadir geth.
+
+https://medium.com/mercuryprotocol/how-to-create-your-own-private-ethereum-blockchain-dad6af82fc9f
+
 # Fonte de pesquisa
 https://hashnode.com/post/how-to-build-your-own-ethereum-based-erc20-token-and-launch-an-ico-in-next-20-minutes-cjbcpwzec01c93awtbij90uzn
 
@@ -37,4 +44,7 @@ https://solidity.readthedocs.io/en/latest/solidity-by-example.html
 
 https://www.cryptokitties.co/marketplace
 
+https://www.walletbuilders.com/
+
+https://medium.com/mercuryprotocol/how-to-create-your-own-private-ethereum-blockchain-dad6af82fc9f
 
