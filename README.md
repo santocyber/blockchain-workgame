@@ -13,18 +13,16 @@ Contratos Inteligentes são blocos de códigos auto-executáveis implantados no 
 Faça o download da extensão do chrome do MetaMask para gerar uma carteira. Que será o proprietário do contrato inteligente. Alternativamente, pode-se usar Mist ou My Ether Wallet. Por uma questão de simplicidade, vamos usar a extensão MetaMask neste projeto.
 
 # Remix - Solidity IDE
-Remix is an IDE for the smart contract programming language Solidity and has an integrated debugger and testing environment.
-Overview
-Remix provides an integrated development environment (IDE) for smart contract development. It focuses on the development and deployment of Solidity written smart contracts.
-Remix is a good solution if you intend to:
-Develop smart contracts (remix integrates a solidity editor).
-Debug a smart contract's execution.
-Access the state and properties of already deployed smart contract.
-Debug already committed transaction.
-Analyze solidity code to reduce coding mistakes and to enforce best practices.
-Together with Mist (or any tool which inject web3), Remix can be used to test and debug a Dapp (see ../tutorial_mist)
-
-
+O Remix é um IDE para a linguagem de programação de contrato inteligente Solidity e possui um depurador integrado e um ambiente de teste.
+O Remix fornece um ambiente de desenvolvimento integrado (IDE) para o desenvolvimento de contratos inteligentes. 
+Centra-se no desenvolvimento e implementação de contratos inteligentes escritos em Solidity.
+Remix é uma boa solução se você pretende:
+Desenvolver contratos inteligentes (o remix integra um editor de solidity).
+Depurar a execução de um contrato inteligente.
+Acesse o estado e as propriedades do contrato inteligente já implantado.
+Depurar transação já confirmada.
+Analise do código de solidity para reduzir erros de codificação e aplicar as melhores práticas.
+Juntamente com Mist (ou qualquer ferramenta que injete web3), o Remix pode ser usado para testar e depurar um Dapp (veja ../tutorial_mist)
 
 # Fonte de pesquisa
 https://hashnode.com/post/how-to-build-your-own-ethereum-based-erc20-token-and-launch-an-ico-in-next-20-minutes-cjbcpwzec01c93awtbij90uzn
@@ -36,5 +34,7 @@ https://remix.readthedocs.io/en/latest/
 http://remix.ethereum.org
 
 https://solidity.readthedocs.io/en/latest/solidity-by-example.html
+
+https://www.cryptokitties.co/marketplace
 
 
