@@ -1,7 +1,7 @@
 # Blockchain-Work-Game BWG
 blockchain-workgame
 
-Estudo sobre como razer registros de transacoes dentro de um jogo utilizando blockchain
+Estudo sobre registros de transacoes dentro de um jogo utilizando blockchain
 
 Solidity language to build a simple ERC20 token
 
