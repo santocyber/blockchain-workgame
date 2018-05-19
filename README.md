@@ -1,11 +1,12 @@
 # Blockchain-Work-Game BWG
 blockchain-workgame
 
-Estudo sobre registros de transacoes dentro de um jogo utilizando blockchain
+## Estudo sobre transacoes dentro dos jogos utilizando blockchain
+
+Tokens baseados em Ethereum ERC20: Tokens Ethereum representam quaisquer bens comercializáveis, como moedas, pontos de fidelidade, etc.
 
 Solidity language to build a simple ERC20 token
 
-Tokens baseados em Ethereum ERC20: Tokens Ethereum representam quaisquer bens comercializáveis, como moedas, pontos de fidelidade, etc.
 
 # Contratos Inteligentes
 Contratos Inteligentes são blocos de códigos auto-executáveis implantados no blockchain Ethereum. Eles contêm dados e funções de código. Os contratos tomam decisões, interagem com outros contratos, armazenam dados e transferem Ether (a unidade de criptografia do blockchain Ethereum) entre os usuários.
